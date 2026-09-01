@@ -1,16 +1,117 @@
-## Hi there 👋
+Automation & Backend Developer
 
-<!--
-**yarrobong/yarrobong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build business systems, automation tools, integrations, and internal platforms.
 
-Here are some ideas to get you started:
+My main focus is turning real operational processes into working software: backend services, APIs, CRM integrations, dashboards, automation, device management, and reliable internal tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack
+
+Backend
+
+* Python
+* Django
+* PostgreSQL
+* REST API
+* SQL
+
+Frontend
+
+* TypeScript
+* React
+* JavaScript
+* Tailwind CSS
+* Vite
+
+Automation & Integrations
+
+* REST APIs
+* Webhooks
+* CRM integrations
+* Business process automation
+* ADB / device automation
+* External service integrations
+
+Engineering
+
+* Git
+* GitHub Actions
+* CI/CD
+* Linux
+* Docker
+* Playwright
+* Automated testing
+
+Featured Projects
+
+BizonVR
+
+Production-oriented business and e-commerce platform for VR equipment.
+
+Python · Django · PostgreSQL · REST integrations
+
+Includes:
+
+* product catalog and checkout;
+* customers and orders;
+* warehouse inventory and reservations;
+* shipments and finance workflows;
+* manager portal;
+* Bitrix and CDEK integrations;
+* payment workflows and webhooks;
+* automated CI and 778 tests.
+
+View repository
+
+⸻
+
+BizonVR Operator
+
+Platform for centralized management and automation of Meta Quest devices in VR clubs.
+
+TypeScript · React · Node.js · Express · Kotlin · ADB
+
+Includes:
+
+* web operator dashboard;
+* Cloud API and LAN Local Hub;
+* device diagnostics;
+* remote application management;
+* VR session management;
+* ADB and scrcpy integration;
+* Android Quest Agent;
+* reliable command delivery and reconciliation.
+
+View repository
+
+⸻
+
+Metro EKB
+
+PWA for Yekaterinburg Metro schedules and trip planning.
+
+React · TypeScript · PWA · Playwright · GitHub Actions
+
+Includes:
+
+* interactive station selection;
+* next-train calculation;
+* trip and arrival planning;
+* offline support;
+* automated tests;
+* CI/CD deployment to GitHub Pages.
+
+Live Demo · Repository
+
+What I’m Interested In
+
+I’m interested in roles involving:
+
+* backend development;
+* business process automation;
+* system integration;
+* implementation engineering;
+* internal tools;
+* CRM and API integrations;
+* technical systems and device automation.
+
+Open to opportunities in development, automation, integrations, and implementation.
