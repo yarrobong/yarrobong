@@ -2,11 +2,20 @@
 
 **Backend & Automation Developer**
 
+Python/Django · TypeScript/Node.js · PostgreSQL · API integrations · CI/CD · Device automation
+
 I build backend systems, integrations, internal tools, and device automation for real operational workflows.
 
 My focus is on turning business processes into reliable software: APIs, CRM and service integrations, automation, dashboards, transactional systems, and hardware-adjacent tooling.
 
 ## Featured Projects
+
+### [BizonVR Operator](https://github.com/yarrobong/BizonVR-Operator)
+VR-device orchestration platform for managing Meta Quest fleets in VR clubs.
+
+**Highlights:** React operator panel, Express API, LAN-local Node.js Hub, ADB/scrcpy integration, Android/Kotlin Quest Agent, durable command reconciliation, security hardening, **134 automated Node tests**, Android verification, and protected CI.
+
+**Stack:** TypeScript · React · Node.js · Express · Kotlin · Android · ADB · SQLite · GitHub Actions
 
 ### [BizonVR](https://github.com/yarrobong/BizonVR)
 Production-oriented Django/PostgreSQL commerce platform for VR equipment and manager operations.
@@ -14,13 +23,6 @@ Production-oriented Django/PostgreSQL commerce platform for VR equipment and man
 **Highlights:** inventory reservations, checkout and payments, warehouse workflows, external integrations, concurrency controls, CI, and **778 automated tests**.
 
 **Stack:** Python · Django · PostgreSQL · REST APIs · Tailwind CSS · GitHub Actions
-
-### [BizonVR Operator](https://github.com/yarrobong/BizonVR-Operator)
-VR-device orchestration platform for managing Meta Quest fleets in VR clubs.
-
-**Highlights:** React operator panel, Express API, LAN-local Node.js Hub, ADB/scrcpy integration, Android/Kotlin Quest Agent, durable command reconciliation, security hardening, and protected CI.
-
-**Stack:** TypeScript · React · Node.js · Express · Kotlin · Android · ADB · SQLite · GitHub Actions
 
 ### [Metro EKB](https://github.com/yarrobong/ekb-metro)
 Installable PWA for Yekaterinburg Metro schedules, route timing, and arrival planning.
@@ -43,4 +45,4 @@ Installable PWA for Yekaterinburg Metro schedules, route timing, and arrival pla
 
 ## Roles I’m Interested In
 
-Backend development · Automation · System integration · Implementation engineering · Internal tools · CRM/API integrations · Technical systems and device automation
+Backend Development · Automation & Integrations · Implementation Engineering
