@@ -1,117 +1,46 @@
-Automation & Backend Developer
+# Yaroslav Parshakov
 
-I build business systems, automation tools, integrations, and internal platforms.
+**Backend & Automation Developer**
 
-My main focus is turning real operational processes into working software: backend services, APIs, CRM integrations, dashboards, automation, device management, and reliable internal tools.
+I build backend systems, integrations, internal tools, and device automation for real operational workflows.
 
-Tech Stack
+My focus is on turning business processes into reliable software: APIs, CRM and service integrations, automation, dashboards, transactional systems, and hardware-adjacent tooling.
 
-Backend
+## Featured Projects
 
-* Python
-* Django
-* PostgreSQL
-* REST API
-* SQL
+### [BizonVR](https://github.com/yarrobong/BizonVR)
+Production-oriented Django/PostgreSQL commerce platform for VR equipment and manager operations.
 
-Frontend
+**Highlights:** inventory reservations, checkout and payments, warehouse workflows, external integrations, concurrency controls, CI, and **778 automated tests**.
 
-* TypeScript
-* React
-* JavaScript
-* Tailwind CSS
-* Vite
+**Stack:** Python · Django · PostgreSQL · REST APIs · Tailwind CSS · GitHub Actions
 
-Automation & Integrations
+### [BizonVR Operator](https://github.com/yarrobong/BizonVR-Operator)
+VR-device orchestration platform for managing Meta Quest fleets in VR clubs.
 
-* REST APIs
-* Webhooks
-* CRM integrations
-* Business process automation
-* ADB / device automation
-* External service integrations
+**Highlights:** React operator panel, Express API, LAN-local Node.js Hub, ADB/scrcpy integration, Android/Kotlin Quest Agent, durable command reconciliation, security hardening, and protected CI.
 
-Engineering
+**Stack:** TypeScript · React · Node.js · Express · Kotlin · Android · ADB · SQLite · GitHub Actions
 
-* Git
-* GitHub Actions
-* CI/CD
-* Linux
-* Docker
-* Playwright
-* Automated testing
+### [Metro EKB](https://github.com/yarrobong/ekb-metro)
+Installable PWA for Yekaterinburg Metro schedules, route timing, and arrival planning.
 
-Featured Projects
+**Highlights:** after-midnight operational-day logic, offline support, responsive UI, automated schedule validation, **140 automated tests**, **18 E2E scenarios**, and CI/CD deployment.
 
-BizonVR
+**Stack:** React · TypeScript · Vite · Zustand · Zod · Vitest · Playwright · PWA
 
-Production-oriented business and e-commerce platform for VR equipment.
+[**Live Demo →**](https://yarrobong.github.io/ekb-metro/)
 
-Python · Django · PostgreSQL · REST integrations
+## Core Stack
 
-Includes:
+**Backend:** Python · Django · Node.js · Express · PostgreSQL · SQLite · SQL · REST APIs
 
-* product catalog and checkout;
-* customers and orders;
-* warehouse inventory and reservations;
-* shipments and finance workflows;
-* manager portal;
-* Bitrix and CDEK integrations;
-* payment workflows and webhooks;
-* automated CI and 778 tests.
+**Frontend:** TypeScript · React · JavaScript · Tailwind CSS · Vite
 
-View repository
+**Automation & Integrations:** Webhooks · CRM integrations · Business-process automation · ADB / device automation · External service integrations
 
-⸻
+**Engineering:** Git · GitHub Actions · CI/CD · Linux · Docker · Playwright · Automated testing
 
-BizonVR Operator
+## Roles I’m Interested In
 
-Platform for centralized management and automation of Meta Quest devices in VR clubs.
-
-TypeScript · React · Node.js · Express · Kotlin · ADB
-
-Includes:
-
-* web operator dashboard;
-* Cloud API and LAN Local Hub;
-* device diagnostics;
-* remote application management;
-* VR session management;
-* ADB and scrcpy integration;
-* Android Quest Agent;
-* reliable command delivery and reconciliation.
-
-View repository
-
-⸻
-
-Metro EKB
-
-PWA for Yekaterinburg Metro schedules and trip planning.
-
-React · TypeScript · PWA · Playwright · GitHub Actions
-
-Includes:
-
-* interactive station selection;
-* next-train calculation;
-* trip and arrival planning;
-* offline support;
-* automated tests;
-* CI/CD deployment to GitHub Pages.
-
-Live Demo · Repository
-
-What I’m Interested In
-
-I’m interested in roles involving:
-
-* backend development;
-* business process automation;
-* system integration;
-* implementation engineering;
-* internal tools;
-* CRM and API integrations;
-* technical systems and device automation.
-
-Open to opportunities in development, automation, integrations, and implementation.
+Backend development · Automation · System integration · Implementation engineering · Internal tools · CRM/API integrations · Technical systems and device automation
