@@ -1,48 +1,46 @@
-# Yaroslav Parshakov
+<p align="center">
+  <img src="assets/profile-banner.webp" alt="Yaroslav Parshakov — Backend & Automation Developer" width="100%" />
+</p>
 
-**Backend & Automation Developer**
+<p align="center">
+  <strong>Backend systems · Automation · Integrations · Internal tools</strong><br/>
+  I turn operational problems into reliable software.
+</p>
 
-Python/Django · TypeScript/Node.js · PostgreSQL · API integrations · CI/CD · Device automation
+## About
 
-I build backend systems, integrations, internal tools, and device automation for real operational workflows.
+I build software around real workflows: backend services, APIs, transactional systems, automation, dashboards, CRM/service integrations, and hardware-adjacent tooling.
 
-My focus is on turning business processes into reliable software: APIs, CRM and service integrations, automation, dashboards, transactional systems, and hardware-adjacent tooling.
+I like projects where the hard part is not just writing code, but understanding the process, modeling state correctly, handling failures, and making the result easy to operate. My focus is on systems that keep working after the happy path ends.
 
-## Featured Projects
+## Featured work
 
-### [BizonVR Operator](https://github.com/yarrobong/BizonVR-Operator)
-VR-device orchestration platform for managing Meta Quest fleets in VR clubs.
+| Project | What it demonstrates | Core stack |
+| --- | --- | --- |
+| **[BizonVR Operator](https://github.com/yarrobong/BizonVR-Operator)** | Device-orchestration platform for Meta Quest fleets with a Cloud/API ↔ LAN Local Hub boundary, typed commands, ADB/scrcpy control, Android agent, reliability and security hardening. **134 automated Node tests.** | TypeScript · React · Node.js · Express · Kotlin · Android · SQLite |
+| **[BizonVR](https://github.com/yarrobong/BizonVR)** | Django/PostgreSQL commerce and operations platform covering catalog, inventory, reservations, checkout, payments, manager workflows, and external integrations. **778 automated tests.** | Python · Django · PostgreSQL · Tailwind CSS · GitHub Actions |
+| **[Metro EKB](https://github.com/yarrobong/ekb-metro)** | Offline-first PWA for Yekaterinburg Metro schedules and trip planning, including after-midnight operational-day logic and automated timetable validation. **140 tests + 18 Playwright E2E scenarios.** [Live demo →](https://yarrobong.github.io/ekb-metro/) | React · TypeScript · Vite · Zustand · Playwright · PWA |
 
-**Highlights:** React operator panel, Express API, LAN-local Node.js Hub, ADB/scrcpy integration, Android/Kotlin Quest Agent, durable command reconciliation, security hardening, **134 automated Node tests**, Android verification, and protected CI.
+## Engineering focus
 
-**Stack:** TypeScript · React · Node.js · Express · Kotlin · Android · ADB · SQLite · GitHub Actions
+- **Backend & data integrity** — APIs, domain logic, PostgreSQL, transactions, state transitions, authentication, and business rules.
+- **Automation & integrations** — webhooks, external APIs, CRM/service integrations, background workflows, and process automation.
+- **Internal products** — operator panels, dashboards, admin tooling, and systems designed around real operational work.
+- **Reliability & delivery** — automated tests, CI/CD, Docker, Linux, failure handling, validation, and maintainable documentation.
 
-### [BizonVR](https://github.com/yarrobong/BizonVR)
-Production-oriented Django/PostgreSQL commerce platform for VR equipment and manager operations.
+## Toolbox
 
-**Highlights:** inventory reservations, checkout and payments, warehouse workflows, external integrations, concurrency controls, CI, and **778 automated tests**.
-
-**Stack:** Python · Django · PostgreSQL · REST APIs · Tailwind CSS · GitHub Actions
-
-### [Metro EKB](https://github.com/yarrobong/ekb-metro)
-Installable PWA for Yekaterinburg Metro schedules, route timing, and arrival planning.
-
-**Highlights:** after-midnight operational-day logic, offline support, responsive UI, automated schedule validation, **140 automated tests**, **18 E2E scenarios**, and CI/CD deployment.
-
-**Stack:** React · TypeScript · Vite · Zustand · Zod · Vitest · Playwright · PWA
-
-[**Live Demo →**](https://yarrobong.github.io/ekb-metro/)
-
-## Core Stack
-
-**Backend:** Python · Django · Node.js · Express · PostgreSQL · SQLite · SQL · REST APIs
-
-**Frontend:** TypeScript · React · JavaScript · Tailwind CSS · Vite
-
-**Automation & Integrations:** Webhooks · CRM integrations · Business-process automation · ADB / device automation · External service integrations
-
+**Backend:** Python · Django · Node.js · Express · PostgreSQL · SQLite · SQL · REST APIs  
+**Frontend:** TypeScript · React · JavaScript · Tailwind CSS · Vite  
+**Automation:** Webhooks · External APIs · CRM integrations · Business-process automation · Device automation  
 **Engineering:** Git · GitHub Actions · CI/CD · Linux · Docker · Playwright · Automated testing
 
-## Roles I’m Interested In
+## How I approach work
 
-Backend Development · Automation & Integrations · Implementation Engineering
+I prefer to start with the process rather than the framework: understand what must happen, where it can fail, what state has to be preserved, and what should be automated. Then I build the smallest clear system that solves it, add validation and tests around the risky parts, and iterate from real usage.
+
+## Current direction
+
+**Backend Development · Automation & Integrations · Implementation Engineering · Technical Operations**
+
+I am especially interested in roles where I can take ownership of a technical problem end-to-end — from understanding the workflow to implementation, integration, testing, and operational improvement.
