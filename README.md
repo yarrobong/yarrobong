@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.webp" alt="Yaroslav Parshakov — Backend & Automation Developer" width="100%" />
+  <img src="assets/profile-banner.svg" alt="Yaroslav Parshakov — Backend & Automation Developer" width="100%" />
 </p>
 
 <p align="center">
